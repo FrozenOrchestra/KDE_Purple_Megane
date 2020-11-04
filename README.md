@@ -18,3 +18,5 @@ My Config:
   - Latte Layout : custom1.layout.latte
   - Konsole Colour Scheme : .local/share/konsole/klorax.dracula-transparent-editied.colorscheme
   
+![alt text](https://github.com/FrozenOrchestra/KDE_Purple_Megane/blob/main/Screenshot_20201031_163253.png)
+![alt text](https://github.com/FrozenOrchestra/KDE_Purple_Megane/blob/main/Screenshot_20201031_164331.png)
